@@ -23,3 +23,24 @@ pip install manim
 
 For full setup instructions and platform-specific details, visit the official documentation:
 https://docs.manim.community/en/stable/installation.html
+
+
+
+## Examples
+
+
+
+
+
+
+
+
+| Animation | Video Preview | Code |
+|-----------|----------------|------|
+| 🦋 **Butterfly** | <video src="https://github.com/user-attachments/assets/d5c44b41-8d02-49a6-bfdd-88dd7cc1f93c" width="250" autoplay loop muted></video> | [View Code](./butterfly.py) |
+| ❤️ **Heart**     | <video src="https://github.com/user-attachments/assets/52c5b94e-3ab9-46dd-a5a6-017b6072e78e" width="250" autoplay loop muted></video>     | [View Code](./heart.py)     |
+| 🔷 **Superellipse**     | <video src="https://github.com/user-attachments/assets/d62382c5-5bb6-44e9-8f7a-c3175e0a1969" width="250" autoplay loop muted></video> | [View Code](./superellipse.py) |
+
+
+
+
