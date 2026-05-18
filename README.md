@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/6082842c-a60f-46c9-891e-36ff95d3f214
 **Animated Mathematics** is a growing collection of mathematical animations, visualisations, fractals, curves, simulations, and algorithm explanations created with [Manim Community](https://www.manim.community/).
 
 # About Manim
