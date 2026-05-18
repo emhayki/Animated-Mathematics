@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/6082842c-a60f-46c9-891e-36ff95d3f214
 **Animated Mathematics** is a growing collection of mathematical animations, visualisations, fractals, curves, simulations, and algorithm explanations created with [Manim Community](https://www.manim.community/).
 
 # About Manim
@@ -52,47 +54,27 @@ manim -pql ButterflyCurve.py ButterflyCurve
 
 Other animations, fractals, simulations, and algorithms can be rendered in the same way.
 
----
-
 # YouTube
 
 Animations and visualisations created from this repository are published on:
 
 https://www.youtube.com/@emhayki
 
-<table>
-<tr>
-<td align="center">
-<a href="https://www.youtube.com/shorts/RKhmgfUqg3Q">
-<img src="https://img.youtube.com/vi/RKhmgfUqg3Q/maxresdefault.jpg" width="700">
-</a>
-<br>
-Pythagoras Tree
-</td>
-</tr>
+Examples include:
 
-<tr>
-<td align="center">
-<a href="https://www.youtube.com/shorts/4bX_ELmiYW4">
-<img src="https://img.youtube.com/vi/4bX_ELmiYW4/maxresdefault.jpg" width="700">
-</a>
-<br>
-Double Pendulum Simulation
-</td>
-</tr>
+### Pythagoras Tree Fractal
 
-<tr>
-<td align="center">
-<a href="https://www.youtube.com/shorts/PckguQe0N78">
-<img src="https://img.youtube.com/vi/PckguQe0N78/maxresdefault.jpg" width="700">
-</a>
-<br>
-Butterfly Curve
-</td>
-</tr>
-</table>
+<video src="https://github.com/user-attachments/assets/a356ab9e-d96e-43c6-b80b-26db8baa8d48" width="250" controls></video>
 
+### Hexaflake Fractal
 
+<video src="https://github.com/user-attachments/assets/60c88a7d-a120-4498-958b-0932dc074898" width="250" controls></video>
+
+### Sierpinski Triangle Fractal
+
+<video src="https://github.com/user-attachments/assets/9914abc3-c4ea-47f6-b271-971e9e730b19" width="250" controls></video>
+
+---
 If you enjoy the project, consider:
 - Starring the repository
 - Sharing the animations
