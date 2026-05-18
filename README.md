@@ -1,7 +1,5 @@
 **Animated Mathematics** is a growing collection of mathematical animations, visualisations, fractals, curves, simulations, and algorithm explanations created with [Manim Community](https://www.manim.community/).
 
-This project focuses on turning mathematics and computational concepts into engaging animations for learning, exploration, and visual storytelling.
-
 # About Manim
 
 [Manim Community](https://www.manim.community/) (short for *Mathematical Animation Engine*) is an open-source Python library for creating precise mathematical animations and scientific visualisations.
@@ -66,23 +64,27 @@ https://www.youtube.com/@emhayki
 <tr>
 <td align="center">
 <a href="https://www.youtube.com/shorts/RKhmgfUqg3Q">
-<img src="https://img.youtube.com/vi/RKhmgfUqg3Q/hqdefault.jpg" width="320">
+<img src="https://img.youtube.com/vi/RKhmgfUqg3Q/maxresdefault.jpg" width="700">
 </a>
 <br>
 Pythagoras Tree
 </td>
+</tr>
 
+<tr>
 <td align="center">
 <a href="https://www.youtube.com/shorts/4bX_ELmiYW4">
-<img src="https://img.youtube.com/vi/4bX_ELmiYW4/hqdefault.jpg" width="320">
+<img src="https://img.youtube.com/vi/4bX_ELmiYW4/maxresdefault.jpg" width="700">
 </a>
 <br>
 Double Pendulum Simulation
 </td>
+</tr>
 
+<tr>
 <td align="center">
 <a href="https://www.youtube.com/shorts/PckguQe0N78">
-<img src="https://img.youtube.com/vi/PckguQe0N78/hqdefault.jpg" width="320">
+<img src="https://img.youtube.com/vi/PckguQe0N78/maxresdefault.jpg" width="700">
 </a>
 <br>
 Butterfly Curve
