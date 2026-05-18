@@ -1,18 +1,23 @@
+**Animated Mathematics** is a growing collection of mathematical animations, visualisations, fractals, curves, simulations, and algorithm explanations created with [Manim Community](https://www.manim.community/).
 
-**Animated Mathematics** is a visual collection of maths functions animated with [Manim](https://www.manim.community/).
+This project focuses on turning mathematics and computational concepts into engaging animations for learning, exploration, and visual storytelling.
 
-## About Manim
+# About Manim
 
-[Manim](https://www.manim.community/) (short for *Mathematical Animation Engine*) is an open-source Python library for creating precise and high-quality animations of mathematical concepts. Originally developed by Grant Sanderson (3Blue1Brown), it’s now maintained by an active community and widely used in maths education and visual storytelling.
+[Manim Community](https://www.manim.community/) (short for *Mathematical Animation Engine*) is an open-source Python library for creating precise mathematical animations and scientific visualisations.
 
-## Requirements
+Originally created by Grant Sanderson for the 3Blue1Brown YouTube channel, Manim has become one of the most popular tools for educational mathematics animations.
+
+---
+
+# Requirements
 
 To use this project, you'll need:
 
-- Python (version 3.8 or higher)
-- pip (Python package installer)
-- FFmpeg (for video rendering)
-- (Optional) LaTeX (for rendering mathematical formulae)
+- Python 3.8 or higher
+- pip
+- FFmpeg
+- (Optional) LaTeX for advanced mathematical rendering
 
 Install Manim with:
 
@@ -20,10 +25,73 @@ Install Manim with:
 pip install manim
 ```
 
+For full installation instructions and platform-specific setup:
 
-For full setup instructions and platform-specific details, visit the official documentation:
 https://docs.manim.community/en/stable/installation.html
 
+---
+
+# Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/emhayki/Animated-Mathematics.git
+cd Animated-Mathematics/src
+```
+
+Render a scene (for example, Butterfly Curve)
+
+```bash
+manim -pqh ButterflyCurve.py ButterflyCurve
+```
+
+Low quality preview:
+
+```bash
+manim -pql ButterflyCurve.py ButterflyCurve
+```
+
+Other animations, fractals, simulations, and algorithms can be rendered in the same way.
+
+---
+
+# YouTube
+
+Animations and visualisations created from this repository are published on:
+
+https://www.youtube.com/@emhayki
+
+<table>
+<tr>
+<td align="center">
+<a href="https://www.youtube.com/shorts/RKhmgfUqg3Q">
+<img src="https://img.youtube.com/vi/RKhmgfUqg3Q/hqdefault.jpg" width="320">
+</a>
+<br>
+Pythagoras Tree
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/shorts/4bX_ELmiYW4">
+<img src="https://img.youtube.com/vi/4bX_ELmiYW4/hqdefault.jpg" width="320">
+</a>
+<br>
+Double Pendulum Simulation
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/shorts/PckguQe0N78">
+<img src="https://img.youtube.com/vi/PckguQe0N78/hqdefault.jpg" width="320">
+</a>
+<br>
+Butterfly Curve
+</td>
+</tr>
+</table>
 
 
-
+If you enjoy the project, consider:
+- Starring the repository
+- Sharing the animations
+- Subscribing to the YouTube channel
