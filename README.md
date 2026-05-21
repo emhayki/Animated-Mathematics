@@ -53,27 +53,9 @@ manim -pql ButterflyCurve.py ButterflyCurve
 
 Other animations, fractals, simulations, and algorithms can be rendered in the same way.
 
-# YouTube
-
-Animations and visualisations created from this repository are published on:
-
-https://www.youtube.com/@emhayki
-
-Examples include:
-
-### Pythagoras Tree Fractal
-
-<video src="https://github.com/user-attachments/assets/a356ab9e-d96e-43c6-b80b-26db8baa8d48" width="250" controls></video>
-
-### Hexaflake Fractal
-
-<video src="https://github.com/user-attachments/assets/60c88a7d-a120-4498-958b-0932dc074898" width="250" controls></video>
-
-### Sierpinski Triangle Fractal
-
-<video src="https://github.com/user-attachments/assets/9914abc3-c4ea-47f6-b271-971e9e730b19" width="250" controls></video>
-
 ---
+Animations and visualisations created from this repository are published on https://www.youtube.com/@emhayki
+
 If you enjoy the project, consider:
 - Starring the repository
 - Sharing the animations
